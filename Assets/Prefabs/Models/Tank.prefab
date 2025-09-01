@@ -628,7 +628,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 80
+  Priority: 240
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -741,7 +741,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 60
+  Priority: 200
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -1008,9 +1008,9 @@ MonoBehaviour:
   _indicator: {fileID: 2173330880619004361}
   _color:
     serializedVersion: 2
-    key0: {r: 0.8207547, g: 0.127759, b: 0.127759, a: 1}
-    key1: {r: 0.83225524, g: 0.8396226, b: 0.1544589, a: 1}
-    key2: {r: 0.07338022, g: 0.9150943, b: 0.11687285, a: 0}
+    key0: {r: 1, g: 0, b: 0, a: 1}
+    key1: {r: 1, g: 1, b: 0, a: 1}
+    key2: {r: 0, g: 1, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
